@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aminulds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminulds" height="30" width="40" /></a>
-  <a href="https://web.whatsapp.com/send?phone=8801743724256" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" alt="aminulds" /></a>
+  <a href="https://web.whatsapp.com/send?phone=8801743724256" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" alt="aminulds" height="30" width="30" /></a>
 </p>
 
 Frontend Developer with exceptional skills in Analysis, Design, and Development of high scalable multi-tiered Web Applications. Experience in developing responsive UI(User Interface) of web applications. Code will be W3C standard.
