@@ -3,7 +3,7 @@
 
 - 🔭 I’m working at [Desktop IT](https://desktopit.net)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aminulfd.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://aminulfd.netlify.app" target="blank">Recent Projects</a>
 
 - 💬 Ask me about _Your problem and get a well organized solution_
 
