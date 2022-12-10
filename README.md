@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aminul</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="Coding" width="200" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 👨‍💻 All of my projects are available at <a href="https://aminulfd.netlify.app" target="blank">Recent Projects</a>
 
