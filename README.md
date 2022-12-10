@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aminul</h1>
-<h3 align="center">A passionate Frontend web/app developer who is playing with Nextjs, React, Redux, MUI, Tailwindcss, Bootstrap, SCSS and many more...</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m working at [Desktop IT](https://desktopit.net)
 
 - 👨‍💻 All of my projects are available at <a href="https://aminulfd.netlify.app" target="blank">Recent Projects</a>
 
-- 💬 Ask me about _Your problem and get a well organized solution_
-
-- 📫 How to reach me *aminulds61@gmail.com*
-
-- ⚡ Fun fact _Traveling_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
